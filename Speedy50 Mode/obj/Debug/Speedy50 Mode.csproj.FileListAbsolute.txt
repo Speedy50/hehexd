@@ -1,0 +1,2 @@
+C:\Users\Ich\Desktop\Speedy50 Mode\bin\Debug\Speedy50 Mode.exe.config
+C:\Users\Ich\Documents\Visual Studio 2015\Projects\Speedy50 Mode\Speedy50 Mode\bin\Debug\Speedy50 Mode.exe.config
