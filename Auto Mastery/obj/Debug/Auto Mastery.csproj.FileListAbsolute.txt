@@ -1,0 +1,2 @@
+c:\users\ich\documents\visual studio 2015\Projects\Auto Mastery\Auto Mastery\bin\Debug\Auto Mastery.exe.config
+C:\Users\Ich\Desktop\Auto Mastery\bin\Debug\Auto Mastery.exe.config
