@@ -9,7 +9,7 @@ using EloBuddy.SDK.Events;
 using EloBuddy.SDK.Enumerations;
 using SharpDX;
 
-namespace Speedymode
+namespace LWolfmode
 {
     public class Ability
     {
@@ -207,8 +207,8 @@ namespace Speedymode
 
         public static void OnLoad(EventArgs args)
         {
-            Chat.Print("<font color='#0080FF'>Speedy50 (Draven)</font>: Speedymode Loaded! (v1.0)");
-            Chat.Print("by Speedy50");
+            Chat.Print("<font color='#0080FF'>LWolf (Draven)</font>: LWolfmode Loaded! (v1.0)");
+            Chat.Print("by LWolf");
             Game.OnUpdate += OnUpdate;
             DatMenu();
         }
@@ -396,11 +396,11 @@ namespace Speedymode
 
         private static void DatMenu()
         {
-            menu = MainMenu.AddMenu("Speedymode", "toxic");
+            menu = MainMenu.AddMenu("LWolfmode", "toxic");
 
-            menu.AddGroupLabel("Thanks for using Speedymode! This addon carried me from Gold V to");
+            menu.AddGroupLabel("Thanks for using LWolfmode! This addon carried me from Gold V to");
             menu.AddGroupLabel("Challenger just by running down mid : ^)");
-            menu.AddGroupLabel("Creator: Obviously Speedy50");
+            menu.AddGroupLabel("Creator: Obviously LWolf");
             menu.AddSeparator();
             menu.Add("ACTIVE", new CheckBox("Active", true));
             menu.Add("MODE", new ComboBox("Choose your lane =>", 2, "Closest Enemy", "Top", "Mid hehe xd", "Bot"));
@@ -408,7 +408,7 @@ namespace Speedymode
             menu.Add("SPELLS", new CheckBox("Use Summoner Spells", false));
             menu.Add("ABILITIES", new CheckBox("Use Abilities", true));
             menu.AddSeparator();
-            menu.AddGroupLabel("Don't report any bugs because I dont give a fuck.");
+            menu.AddGroupLabel("Don't report any bugs because I left anyway.");
 
         }
 
