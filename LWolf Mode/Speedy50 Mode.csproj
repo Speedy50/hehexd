@@ -7,8 +7,8 @@
     <ProjectGuid>{40BBE9D8-EFF7-46B3-8E6D-E2C5C1F63B6E}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Speedy50_Mode</RootNamespace>
-    <AssemblyName>Speedy50 Mode</AssemblyName>
+    <RootNamespace>LWolf_Mode</RootNamespace>
+    <AssemblyName>LWolf Mode</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
