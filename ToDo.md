@@ -27,6 +27,6 @@ Release <b><u>Wolftility</u></b> (50%)
 <br>
 <b>LWolf Mode (Speedy50 Mode)</b>
 <br>
-- Rename the project (done)
+- Rename the project (99%)
 <br>
 - Import "auto buy items" feature (99%)
