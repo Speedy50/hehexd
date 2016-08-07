@@ -17,7 +17,7 @@ Release <b><u>Bananaraka</b></u> (65%)
 <br>
 <h2><u>Utility</u></h2>
 <br>
-Release <b><u>Auto LvlUp</b></u> (80%)
+Release <b><u>Custom Auto LvlUp</b></u> (80%)
 <br>
 <br>
 <br>
