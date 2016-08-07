@@ -25,6 +25,10 @@ Release <b><u>Wolftility</u></b> (50%)
 <br>
 <br>
 <br>
+Release <b><u>Auto buy Oracle</u></b> (99%)
+<br>
+<br>
+<br>
 <b>LWolf Mode (Speedy50 Mode)</b>
 <br>
 - Rename the project (99%)
