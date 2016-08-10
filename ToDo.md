@@ -2,8 +2,8 @@
 <br>
 <br>
 <br>
-First of all, my name is LWolf (new name). Im a former script developer who enjoys developing my own utility addons.<br>
-Anyways, I don't enjoy playing LoL or scripting anymore...that's why I leave.<br>
+First of all, my name is LWolf (new name). Im a script developer who enjoys developing my own utility addons.<br>
+Anyways, I am going to change the script platform since EB is crap. Im not gonna tell on which platform im going...<br>
 Before I leave, I want to push my last projects and updates on Git.
 <hr>
 <br>
